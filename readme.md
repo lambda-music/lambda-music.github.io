@@ -1,12 +1,16 @@
-Pulsar - a Lisp/Scheme Music Sequencer
-=========
+Quasar - a Lisp/Scheme Music Sequencer
+====================================
 
-<div style="text-align: center;">
-<div class="fb-video" data-href="https://www.facebook.com/whatsupAts/videos/vb.784493691/10157156543548692/" data-width="500" data-show-text="false">
-</div></div>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FwhatsupAts%2Fvideos%2F10157156543548692%2F&show_text=0&width=560" 
+    width="560" 
+    height="315" 
+    style="border:none;overflow:hidden" 
+    scrolling="no" 
+    frameborder="0" 
+    allowTransparency="true" allowFullScreen="true">
+</iframe>
 
-[Pulsar](./pulsar/)
+[Pulsar](https://lisp-scheme-music.github.io/pulsar/)
 
-Pulsar is powered by Kawapad
 
 
