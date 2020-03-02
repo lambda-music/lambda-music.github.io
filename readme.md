@@ -45,13 +45,13 @@ living in a rural area in North-East Thailand for twelve years. During the
 time, I had encountered many opportunities that could lead me to death, but I 
 luckily survived.  In the time, I learned a dialect of Laotian language and 
 eventually I could acquire the ability to speak it very fluently. That 
-experience opened me up to the other languages like English. And additionally I 
+experience opened me up to other languages like English. And additionally I 
 studied Scheme in the same period.
 
 I learned Laotian music at that time and I found it had some similarities with 
-jazz. I am a jazz guitarist. I have been experimenting to search the way to mix 
-jazz, Laotian music and other music for decades. And I hope someday I can 
-develop a whole new type of music.
+jazz. I am a jazz guitarist. I have been inquiring to find the way to mix jazz, 
+Laotian music and other music for decades. And I hope someday I can develop a 
+whole new type of music.
 
 Less have I visited to English spoken countries; I have visited to Boston, 
 Massachusetts back in 1996 for only three month and 2002 for only a month. My 
