@@ -1,4 +1,4 @@
-Quasar - a Lisp/Scheme Music Sequencer
+Lamu - a Programmable Music Sequencer
 ====================================
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FwhatsupAts%2Fvideos%2F10157156543548692%2F&show_text=0&width=560" 
@@ -10,7 +10,7 @@ Quasar - a Lisp/Scheme Music Sequencer
     allowTransparency="true" allowFullScreen="true">
 </iframe>
 
-[Pulsar](https://lisp-scheme-music.github.io/pulsar/)
+[Lamu](https://lambda-music.github.io/lamu/)
 
 
 
