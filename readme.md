@@ -40,11 +40,11 @@ restoring/destroying connection.
 Kawapad is a Lisp editor which is written in Java. Kawapad is a customizable 
 Scheme editor which is able to extend by Scheme itself. It may be a ready 
 customized for editing Scheme code. It is equipped with Kawa a Scheme 
-interpreter; it can run the Scheme code on-the-fly.
+interpreter; it can execute the Scheme code on-the-fly. Kawapad is embedded in 
+Lamu; though, it can run as a standalone-editor as well.
 
 ![Kawapad Editor Demo][kawapad-demo]
 
-Kawapad is embedded in Lamu; though, it can run as a standalone-editor as well.
 
 [Lamu - Lambda Programmable Music Sequencer][lamu]
 
