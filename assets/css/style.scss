@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+header {
+    background : #8bb;
+    height: 200px;
+}
+section {
+    color:#000;
+    margin-top : 150px;
+    background-color:#fff;
+    font-weight : 300;
+}
+header p {
+    // color:#fff;
+}
+/*
+nav {
+    width : 400px;
+    position : fixed;
+    top : 180px;
+    left : calc( 50% - 360px - 400px );
+    margin : auto;
+}
+*/
+
