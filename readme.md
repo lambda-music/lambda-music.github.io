@@ -1,5 +1,7 @@
-Lamu - a Programmable Music Sequencer
-====================================
+Lamu - Lambda Programmable Music Sequencer
+===========================================
+
+_In a short-word, Lamu is a Scheme interpreter with JACKAudio client._
 
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/4Uu6bKWs_Vc" 
@@ -7,8 +9,8 @@ Lamu - a Programmable Music Sequencer
     allowfullscreen>
 </iframe>
 
-### Write Scheme and Make Music by Lamu ###
-Lamu (stands for LAmbda-MUsic Sequencer) is a music sequencer which enables 
+# Write Scheme and Make Music by Lamu #
+Lamu (stands for LAmbda MUsic Sequencer) is a music sequencer which enables 
 users to write music as Scheme programs. In this system, musical notes and 
 other informations are written as Scheme's association lists. The musical notes 
 can be dynamically sent to the sequencer as Scheme's association lists 
@@ -24,26 +26,35 @@ and various Linux distributions.
 
 [Lamu - Lambda Programmable Music Sequencer][lamu]
 
+# Lamu works with JACKAudio #
+[JACK(JACK Audio Connection Kit)][jackaudio] is a low-latency audio framework 
+which can be used in Linux,Windows and OS X. This enables a number of 
+independent synthesizers, sequencers effectors to work cooperatively. The MIDI 
+signals which Lamu issued are sent to the applications via JACKAudio. Lamu is 
+also able to send JACKAudio commands in order to automate the 
+restoring/destroying connection.
 
-### Lamu works with JACKAudio ###
-JACK(JACK Audio Connection Kit) is an audio infrastructure which can be used in
-Linux,Windows and OS X. This enables a number of independent synthesizers, 
-sequencers effectors to work cooperatively. The MIDI signals which Lamu issued 
-are sent to the applications via JACKAudio. Lamu is also able to send JACKAudio 
-commands in order to automate the restoring/destroying connection.
+[Lamu - Lambda Programmable Music Sequencer][lamu]
 
-
-### Lamu is equipped with Kawapad ###
-Kawapad is a Lisp editor which is written in Java.
+# Lamu is equipped with Kawapad #
+Kawapad is a Lisp editor which is written in Java. Kawapad is a customizable 
+Scheme editor which is able to extend by Scheme itself. It may be a ready 
+customized for editing Scheme code. It is equipped with Kawa a Scheme 
+interpreter; it can run the Scheme code on-the-fly.
 
 ![Kawapad Editor Demo][kawapad-demo]
 
-### About Me ###
-I am a Japanese programmer born in 1973. I was born and raised in Tokyo.  
+Kawapad is embedded in Lamu; though, it can run as a standalone-editor as well.
+
+[Lamu - Lambda Programmable Music Sequencer][lamu]
+
+# About Me #
+Lamu is invented by me and this is a single-man project. My name is Atsushi 
+Oka. I am a Japanese programmer born in 1973. I was born and raised in Tokyo.  
 Therefore, I have never spoken English in daily life. And as you can probably 
-see, Japanese people is one of the most English resistant people.  And I am no 
+see, Japanese people is one of the most English resistant people. And I am no 
 exception. The grammar structure and pronunciation system in Japanese are very 
-different from the rest of the world. For Japanese people, it is extremely 
+different from the rest of the world.  For Japanese people, it is extremely 
 difficult to understand the difference between themselves and others.  Japan is 
 geographical isolated from others; therefore, the history have been developed 
 very differently.  I still haven't found the exact reason why Japanese is so 
@@ -71,7 +82,7 @@ English ability is quite limited. Please, excuse my English and thank you for
 your corporation to be patient to the immatureness.
 
 
-
+[jackaudio]: https://jackaudio.org/
 [kawapad-demo]: https://lambda-music.github.io/lamu/imgs/corresponding-parenthesis-movement.gif
 [lamu]:  https://lambda-music.github.io/lamu/
 [kawapad]: https://lambda-music.github.io/lamu/workspace/kawapad/
