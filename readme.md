@@ -1,4 +1,4 @@
-Lamu - Lambda Programmable Music Sequencer
+Lambda Programmable Music Sequencer
 ===========================================
 
 _In a short-word, Lamu is a Scheme interpreter with JACKAudio client with 
