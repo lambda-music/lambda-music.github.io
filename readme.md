@@ -1,7 +1,8 @@
 Lamu - Lambda Programmable Music Sequencer
 ===========================================
 
-_In a short-word, Lamu is a Scheme interpreter with JACKAudio client._
+_In a short-word, Lamu is a Scheme interpreter with JACKAudio client with 
+live-coding in mind._
 
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/4Uu6bKWs_Vc" 
