@@ -1,8 +1,8 @@
 Lambda Programmable Music Sequencer
 ===========================================
 
-_In a short-word, [Lamu][lamu] is an environment with Scheme interpreter with 
-JACKAudio client with live-coding in mind._
+_In a short-word, [Lamu][lamu] is an Lisp editor built on a Scheme interpreter 
+works with JACKAudio client which is live-coding in mind._
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/4Uu6bKWs_Vc" frameborder="0" 
