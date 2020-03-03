@@ -1,25 +1,25 @@
 Lambda Programmable Music Sequencer
 ===========================================
 
-_In a short-word, Lamu is a Scheme interpreter with JACKAudio client with 
+_In a short-word, [Lamu][lamu] is a Scheme interpreter with JACKAudio client with 
 live-coding in mind._
 
 <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/4Uu6bKWs_Vc" 
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
+src="https://www.youtube.com/embed/4Uu6bKWs_Vc" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
 </iframe>
 
 # Write Scheme and Make Music by Lamu #
-Lamu (stands for LAmbda MUsic Sequencer) is a music sequencer which enables 
-users to write music as Scheme programs. In this system, musical notes and 
-other informations are written as Scheme's association lists. The musical notes 
-can be dynamically sent to the sequencer as Scheme's association lists 
+[Lamu][lamu] (stands for LAmbda MUsic Sequencer) is a music sequencer which 
+enables users to write music as Scheme programs. In this system, musical notes 
+and other informations are written as Scheme's association lists. The musical 
+notes can be dynamically sent to the sequencer as Scheme's association lists 
 on-the-fly.  Users can also interact with the dynamically generated music at 
 runtime and affect the direction that the music is going.
 
-Lamu is written in Java and Scheme. It equipped with Kawa a Java based Scheme 
-implementation. You can send MIDI data via JACKAudio Connection Kit a 
+[Lamu][lamu] is written in Java and Scheme. It equipped with Kawa a Java based 
+Scheme implementation. You can send MIDI data via JACKAudio Connection Kit a 
 multiplatform audio connection system which is accessed via Java Native Access.
 
 Lamu runs on most major platforms which can run Java such as Windows, Mac-OSX
