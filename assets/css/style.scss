@@ -2,11 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-header {
+section.page-header {
     background : #8bb;
     height: 200px;
 }
-section {
+section.main-content {
     color:#000;
     margin-top : 150px;
     background-color:#fff;
