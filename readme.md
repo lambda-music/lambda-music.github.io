@@ -36,7 +36,7 @@ commands in order to automate the restoring/destroying connection.
 ### Lamu is equipped with Kawapad ###
 Kawapad is a Lisp editor which is written in Java.
 
-![Kawapad][kawapad-running]
+![Kawapad Editor Demo][kawapad-demo]
 
 ### About Me ###
 I am a Japanese programmer born in 1973. I was born and raised in Tokyo.  
@@ -72,8 +72,7 @@ your corporation to be patient to the immatureness.
 
 
 
-[kawapad-running]: 
-https://lambda-music.github.io/lamu/imgs/corresponding-parenthesis-movement.gif
+[kawapad-demo]: https://lambda-music.github.io/lamu/imgs/corresponding-parenthesis-movement.gif
 [lamu]:  https://lambda-music.github.io/lamu/
 [kawapad]: https://lambda-music.github.io/lamu/workspace/kawapad/
 [architecture]: https://lambda-music.github.io/lamu/imgs/lambda-music-architecture.png
