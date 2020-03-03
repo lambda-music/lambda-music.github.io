@@ -1,8 +1,8 @@
 Lambda Programmable Music Sequencer
 ===========================================
 
-_In a short-word, [Lamu][lamu] is an Lisp editor built on a Scheme interpreter 
-works with JACKAudio client which is live-coding in mind._
+_In a short-word, [Lamu][lamu] is a Scheme interpreter with JACKAudio client as 
+as a MIDI sequencer with an Lisp editor live-coding in mind._
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/4Uu6bKWs_Vc" frameborder="0" 
@@ -46,6 +46,16 @@ Lamu; though, it can run as a standalone-editor as well.
 
 ![Kawapad Editor Demo][kawapad-demo]
 
+# Feature #
+- Written in Java with JNA and runs Windows/Linux and OS X
+- Built-in Kawa Scheme
+- S-expressions as musical notation
+- Works with JACKAudio Kit; is able to control any JACK aware Synths
+- Built-in Kawapad a Lisp editor
+    - is able to move around the parentheses
+    - prettifies S-expressions
+    - executes code blocks on-the-fly
+    - can be extended by Kawa Scheme
 
 [Lamu - Lambda Programmable Music Sequencer][lamu]
 
