@@ -4,14 +4,14 @@ Lambda Programmable Music Sequencer
 _In a short-word, [Lamu][lamu] is a Scheme interpreter with JACKAudio client as 
 as a MIDI sequencer with an Lisp editor live-coding in mind._
 
-<!--
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/4Uu6bKWs_Vc" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
 </iframe>
--->
+<!--
 [![image](https://img.youtube.com/vi/4Uu6bKWs_Vc/0.jpg)](https://www.youtube.com/watch?v=4Uu6bKWs_Vc)
+-->
 
 # Write Scheme and Make Music by Lamu #
 [Lamu][lamu] (stands for LAmbda MUsic Sequencer) is a music sequencer which 
