@@ -11,7 +11,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen>
 </iframe>
 -->
-[![image](https://img.youtube.com/vi/4Uu6bKWs_Vc/0.jpg)](https://www.youtube.com/embed/4Uu6bKWs_Vc)
+[![image](https://img.youtube.com/vi/4Uu6bKWs_Vc/0.jpg)](https://www.youtube.com/watch?v=4Uu6bKWs_Vc)
 
 # Write Scheme and Make Music by Lamu #
 [Lamu][lamu] (stands for LAmbda MUsic Sequencer) is a music sequencer which 
