@@ -66,10 +66,10 @@ Lamu; though, it can run as a standalone-editor as well.
 Lamu is invented by me and this is a single-man project. My name is Atsushi 
 Oka. I am a Japanese programmer born in 1973. I was born and raised in Tokyo. 
 Therefore, I have never spoken English in daily life. And as you can probably 
-see, Japanese people is one of the most English resistant people.  And I am no 
+see, Japanese people is one of the most English resistant people. And I am no 
 exception. The grammar structure and pronunciation system in Japanese are very 
-different from the rest of the world.  For Japanese people, it is extremely 
-difficult to understand the difference between themselves and others.  Japan is 
+different from the rest of the world. For Japanese people, it is extremely 
+difficult to understand the difference between themselves and others. Japan is 
 geographical isolated from others; therefore, the history have been developed 
 very differently.  I still haven't found the exact reason why Japanese is so 
 different from others.
@@ -78,7 +78,7 @@ Therefore, you may find my documentation has some difficulty to be
 comprehended; I have to admit it and please excuse my English in advance. 
 
 There may be something that makes me different from other Japanese; I was 
-living in an extremely rural area of North-East Thailand for twelve years.  
+living in an extremely rural area of North-East Thailand for twelve years. 
 During the time, I had encountered many accidents and happening that could lead 
 me to death, but I luckily survived.  In the time, I learned a dialect of 
 Laotian language and eventually I could acquire the ability to speak it very 
@@ -101,4 +101,4 @@ your corporation to be patient to the immatureness.
 [lamu]:  https://lambda-music.github.io/lamu/
 [kawapad]: https://lambda-music.github.io/lamu/workspace/kawapad/
 [architecture]: https://lambda-music.github.io/lamu/imgs/lambda-music-architecture.png
-[vim-modeline]: # ( vim: set spell expandtab fo+=aw: )
+
