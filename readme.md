@@ -64,15 +64,15 @@ Lamu; though, it can run as a standalone-editor as well.
 
 # About Me #
 Lamu is invented by me and this is a single-man project. My name is Atsushi 
-Oka. I am a Japanese programmer born in 1973.  I was born and raised in 
-Tokyo.   Therefore, I have never spoken English in daily life. And as you can 
-probably see, Japanese people is one of the most English resistant people.  And 
-I am no exception. The grammar structure and pronunciation system in Japanese 
-are very different from the rest of the world.  For Japanese people, it is 
-extremely difficult to understand the difference between themselves and others.  
-Japan is geographical isolated from others; therefore, the history have been 
-developed very differently.  I still haven't found the exact reason why 
-Japanese is so different from others.
+Oka. I am a Japanese programmer born in 1973. I was born and raised in Tokyo. 
+Therefore, I have never spoken English in daily life. And as you can probably 
+see, Japanese people is one of the most English resistant people.  And I am no 
+exception. The grammar structure and pronunciation system in Japanese are very 
+different from the rest of the world.  For Japanese people, it is extremely 
+difficult to understand the difference between themselves and others.  Japan is 
+geographical isolated from others; therefore, the history have been developed 
+very differently.  I still haven't found the exact reason why Japanese is so 
+different from others.
 
 Therefore, you may find my documentation has some difficulty to be 
 comprehended; I have to admit it and please excuse my English in advance. 

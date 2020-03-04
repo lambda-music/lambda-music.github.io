@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown : kramdown
 title: Lamu
 description: Lambda Programmable Music Sequencer for Live Coding
 google_analytics: UA-159323195-3
