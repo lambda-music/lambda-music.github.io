@@ -4,11 +4,17 @@ Lambda Programmable Music Sequencer
 *In a short-word, [Lamu][LNK_LAMU] is a Scheme interpreter with JACKAudio 
 client as as a MIDI sequencer with an Lisp editor live-coding in mind.*
 
-<iframe style="witdh:100%;"
+<iframe id ="main-video" style="witdh:100%;"
 src="https://www.youtube.com/embed/4Uu6bKWs_Vc" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
 </iframe>
+<script>
+window.addEventListener( 'load' , function() {
+    var e = document.getElementById( 'main-video' );
+    e.style.height = (e.offsetWidth * 0.5625) + 'px';
+});
+</script>
 <!--
 [![image](https://img.youtube.com/vi/4Uu6bKWs_Vc/0.jpg)](https://www.youtube.com/watch?v=4Uu6bKWs_Vc)
 -->
