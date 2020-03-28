@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 markdown : kramdown
-title: Lamu - Lambda Programmable Music Sequencer for Live Coding
+title: Lambda Music Sequencer for Live Coding
 description: Scheme's lambda functions become music by Lamu sequencer!
 google_analytics: UA-159323195-3
