@@ -103,7 +103,7 @@ your corporation to be patient to the immatureness.
 
 [jackaudio]: https://jackaudio.org/
 [kawapad-demo]: https://lambda-music.github.io/lamu/imgs/corresponding-parenthesis-movement.gif
-[LNK_LAMU]: https://lambda-music.github.io/lamu/
+[LNK_LAMU]: https://lambda-music.github.io/lambda-music/
 [EDT_LAMU]: ../lamu/readme.md
 [kawapad]: https://lambda-music.github.io/lamu/workspace/kawapad/
 [architecture]: https://lambda-music.github.io/lamu/imgs/lambda-music-architecture.png
