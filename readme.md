@@ -67,40 +67,6 @@ Lamu; though, it can run as a standalone-editor as well.
 
 [Lamu - Lambda Programmable Music Sequencer][LNK_LAMU]
 
-# About Me #
-Lamu is invented by me and this is a single-man project. My name is Atsushi 
-Oka. I am a Japanese programmer born in 1973. I was born and raised in Tokyo. 
-Therefore, I have never spoken English in daily life. And as you can probably 
-see, Japanese people is one of the most English resistant people. And I am no 
-exception. The grammar structure and pronunciation system in Japanese are very 
-different from the rest of the world. For Japanese people, it is extremely 
-difficult to understand the difference between themselves and others. Japan is 
-geographical isolated from others; therefore, the history have been developed 
-very differently.  I still haven't found the exact reason why Japanese is so 
-different from others.
-
-Therefore, you may find my documentation has some difficulty to be 
-comprehended; I have to admit it and please excuse my English in advance. 
-
-There may be something that makes me different from other Japanese; I was 
-living in an extremely rural area of North-East Thailand for twelve years. 
-During the time, I had encountered many accidents and happening that could lead 
-me to death, but I luckily survived.  In the time, I learned a dialect of 
-Laotian language and eventually I could acquire the ability to speak it very 
-fluently.  That experience opened me up to other languages like English. And 
-additionally I studied Scheme in the same period.
-
-I learned Laotian music at that time and I found that it had some similarities 
-with jazz. I was a jazz guitarist.  I have been inquiring to find the way to 
-mix jazz, Laotian music and other music for decades. And I hope someday I can 
-develop a whole new type of music.
-
-Less have I visited to English spoken countries; I have visited to Boston, 
-Massachusetts back in 1996 for only three month and 2002 for only a month. My 
-English ability is quite limited. Please, excuse my English and thank you for 
-your corporation to be patient to the immatureness.
-
-
 [jackaudio]: https://jackaudio.org/
 [kawapad-demo]: https://lambda-music.github.io/lamu/imgs/corresponding-parenthesis-movement.gif
 [LNK_LAMU]: https://lambda-music.github.io/lambda-music/
